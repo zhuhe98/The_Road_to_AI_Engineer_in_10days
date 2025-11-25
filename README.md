@@ -8,7 +8,7 @@ LLM（大規模言語モデル）に外部知識を組み込む **RAG (Retrieval
 ## 進捗状況
 
 - [x] **Day 1**: RAGの基本構造と実装 (Basic RAG Implementation)
-- [ ] **Day 2**: TBD
+- [x] **Day 2**: RAGの検索精度を向上させる「Hybrid Search」と「Re-ranking」の実装
 - [ ] ...
 
 ## 実行方法 (Day 1)

@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-huggingface
+langchain-classic
+pypdf
+rank_bm25
+sentence-transformers
