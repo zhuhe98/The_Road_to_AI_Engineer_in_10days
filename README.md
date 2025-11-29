@@ -9,9 +9,10 @@ LLM（大規模言語モデル）に外部知識を組み込む **RAG (Retrieval
 
 - [x] **Day 1**: RAGの基本構造と実装 (Basic RAG Implementation)
 - [x] **Day 2**: RAGの検索精度を向上させる「Hybrid Search」と「Re-ranking」の実装
+- [x] **Day 3**: GraphRAGの基本構造と実装 (Basic GraphRAG Implementation)
 - [ ] ...
 
-## 実行方法 (Day 1)
+## 実行方法
 
 1. 必要なライブラリをインストール:
    ```bash
